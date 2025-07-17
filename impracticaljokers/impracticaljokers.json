@@ -1,0 +1,18 @@
+{
+  "id": "impracticaljokers",
+  "name": "Impractical Jokers",
+  "author": [
+    "UglyApe"
+  ],
+  "description": "Adds the guys from Impractical Jokers!!",
+  "prefix": "imprac",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "1f1e33",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)",
+    "Talisman i think"
+  ]
+}
